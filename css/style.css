@@ -275,7 +275,7 @@ li.active a {color: #fff !important;}
 .about_content h2 {margin-bottom: 15px; font-weight: 600}
 .top-header {background:#000}
 .our_team_wrap {border:1px solid #ddd; margin-bottom: 17px; text-align: center;}
-.our_team_wrap img {width: 100%}
+.our_team_wrap img {display: block; width: 100%; height: 240px; object-fit: cover; object-position: center;}
 .our_team_wrap p {margin: 0; padding: 15px 10px;}
 .left_products {padding:12px; background: #d71920; border-radius: 7px;}
 .left_products a {display: block; padding: 7px 0; font-weight: 600; color: #fff}
